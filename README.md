@@ -8,4 +8,5 @@ such as: 350  0.0021
          2500 0.291
 in result/ generate the resample result of different sensors
 
-in this programme , includes landsat8-OLI  MERIS  Hyperion  AVRIS  MODIS sensors
+in this programme , includes landsat8-OLI  MERIS  Hyperion  AVRIS  MODIS sensors 
+you can also choose MERIS sensor as user-mode, just input (mid-wavelength and FWHM of each wavelength )in the file of Meris_FWHM.txt
