@@ -1,0 +1,236 @@
+# depslib dependency file v1.0
+1492607634 source:l:\光谱重采样\重采样\resample\meris.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492659011 source:l:\光谱重采样\重采样\resample\path.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1492688391 source:l:\光谱重采样\重采样\resample\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"MERIS.h"
+	"path.h"
+	"TM.h"
+
+1492606489 l:\光谱重采样\重采样\resample\meris.h
+
+1492604566 l:\光谱重采样\重采样\resample\path.h
+
+1492608102 source:l:\光谱重采样\重采样\resample\hyperion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492679515 l:\光谱重采样\重采样\resample\tm.h
+
+1492687236 source:l:\光谱重采样\重采样\resample\tm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492851228 source:g:\jjn暂用\光谱重采样\重采样\resample\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"MERIS.h"
+	"path.h"
+	"TM.h"
+
+1492606489 g:\jjn暂用\光谱重采样\重采样\resample\meris.h
+
+1492604566 g:\jjn暂用\光谱重采样\重采样\resample\path.h
+
+1492679515 g:\jjn暂用\光谱重采样\重采样\resample\tm.h
+
+1492607634 source:g:\jjn暂用\光谱重采样\重采样\resample\meris.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492659011 source:g:\jjn暂用\光谱重采样\重采样\resample\path.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1492694009 source:g:\jjn暂用\光谱重采样\重采样\resample\tm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492852655 source:g:\jjn暂用\光谱重采样\重采样\resample\aviris.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492850618 source:g:\jjn暂用\光谱重采样\重采样\resample\hyperion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492852655 source:d:\桌面\work\光谱重采样\重采样\resample\aviris.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1496245728 d:\桌面\work\光谱重采样\重采样\resample\path.h
+
+1492850618 source:d:\桌面\work\光谱重采样\重采样\resample\hyperion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1496245801 source:d:\桌面\work\光谱重采样\重采样\resample\tm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1496247856 source:d:\桌面\work\光谱重采样\重采样\resample\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"MERIS.h"
+	"path.h"
+	"TM.h"
+	"Hyperion.h"
+	"AVIRIS.h"
+	"MERIS.h"
+	"MODIS.h"
+
+1495873677 d:\桌面\work\光谱重采样\重采样\resample\meris.h
+
+1492679515 d:\桌面\work\光谱重采样\重采样\resample\tm.h
+
+1495873677 d:\桌面\work\光谱重采样\重采样\resample\hyperion.h
+
+1495873677 d:\桌面\work\光谱重采样\重采样\resample\aviris.h
+
+1496283765 source:d:\桌面\work\光谱重采样\重采样\resample\modis.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1496283801 source:d:\桌面\work\光谱重采样\重采样\resample\path.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1495873733 source:d:\桌面\work\光谱重采样\重采样\resample\meris.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492852655 source:e:\桌面\光谱重采样\重采样\resample\aviris.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1492604566 e:\桌面\光谱重采样\重采样\resample\path.h
+
+1492850618 source:e:\桌面\光谱重采样\重采样\resample\hyperion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1496220778 source:e:\桌面\光谱重采样\重采样\resample\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"MERIS.h"
+	"path.h"
+	"TM.h"
+	"Hyperion.h"
+	"AVIRIS.h"
+	"MERIS.h"
+
+1495873677 e:\桌面\光谱重采样\重采样\resample\meris.h
+
+1492679515 e:\桌面\光谱重采样\重采样\resample\tm.h
+
+1495873677 e:\桌面\光谱重采样\重采样\resample\hyperion.h
+
+1495873677 e:\桌面\光谱重采样\重采样\resample\aviris.h
+
+1495873733 source:e:\桌面\光谱重采样\重采样\resample\meris.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1495854273 source:e:\桌面\光谱重采样\重采样\resample\modis.c
+
+1496223278 source:e:\桌面\光谱重采样\重采样\resample\path.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1496214920 source:e:\桌面\光谱重采样\重采样\resample\tm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"path.h"
+
+1496247964 d:\桌面\work\光谱重采样\重采样\resample\modis.h
+
